@@ -1,4 +1,4 @@
-# KON Software Language
+# What we use software language 
 
 This project was created with Python.
 
@@ -10,12 +10,12 @@ Also we used tesseract to read text from the image.
 # What does it do
 
 This project supplies to read text from specific area on window.
-Also project sends to telegram app that text
+Also the project sends to telegram app the text
 
 
 # How to use
 
-1-) First of all , if you don't have tesseract , u have to install tesseract.
+1-) First of all, if you don't have tesseract , u have to install tesseract.
 
 2-) You have to get telegram api key and bot token.
 
@@ -25,3 +25,10 @@ Also project sends to telegram app that text
 
 5-) That keys come from database so u have to connect between database and app.(There is tag for database connection in Gui.py)
 
+# We have got hotkeys
+    "f" : save first x and y coordinates 
+    "l" : save last x and y coordinates 
+    "s" : start to app 
+    "p" : pause app 
+    "x" : exit from app  
+    If you want to use this app , u have to use hotkeys 
