@@ -25,7 +25,7 @@ Also the project sends to telegram app the text
 
 5-) That keys come from database so u have to connect between database and app.(There is tag for database connection in Gui.py)
 
-7-) We have got hotkeys ; 
+7-) We have got hotkeys ; \
     "f" : save first x and y coordinates
     "l" : save last x and y coordinates
     "s" : start to app
