@@ -10,7 +10,7 @@ Also we used tesseract to read text from the image.
 # What does it do
 
 This project supplies to read text from specific area on window.
-Also the project sends to telegram app that text
+Also the project sends to telegram app the text
 
 
 # How to use
