@@ -15,7 +15,7 @@ Also the project sends to telegram app the text
 
 # How to use
 
-1-) First of all , if you don't have tesseract , u have to install tesseract.
+1-) First of all, if you don't have tesseract , u have to install tesseract.
 
 2-) You have to get telegram api key and bot token.
 
