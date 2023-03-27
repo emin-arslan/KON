@@ -1,4 +1,4 @@
-# What we use software language 
+# Which we use software language 
 
 This project was created with Python.
 
