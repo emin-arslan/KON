@@ -31,4 +31,4 @@ Also the project sends to telegram app the text
     "s" : start to app \
     "p" : pause app \
     "x" : exit from app  \
-    If you want to use this app , u have to use hotkeys \
+    If you want to use this app , u have to use hotkeys 
